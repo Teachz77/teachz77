@@ -9,7 +9,7 @@
 - ♟  My hobby is playing **Chess**
 - 📫 Reach me on email **matthew.manuels17@gmail.com**
 
-### 💻 Tech Stack Saya:
+### 💻 My Tech Stack:
 
 <p align="left">
   <a href="https://skillicons.dev">
